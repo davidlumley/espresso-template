@@ -1,9 +1,9 @@
 class App < E
 
-	map '/'
+  map '/'
 
-	def index
-		"Hello world!"
-	end
+  def index
+    "Hello world!"
+  end
 
 end
